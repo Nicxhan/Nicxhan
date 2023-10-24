@@ -1,4 +1,4 @@
-# 👋 👋 👋 Hi there 👋 👋 👋 👋 👋 
+# 👋 👋 👋 Hi there 👋 👋 👋 
 # 😁       I am Nicx              😁
 ## ✨ Welcome to my GitHub page! ✨
 <!--
@@ -17,9 +17,17 @@ Here are some ideas to get you started:
 -->
 ![](https://github-readme-stats.vercel.app/api?username=Nicxhan&show_icons=true&theme=transparent)
 
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/Nicxhan/count.svg) visitor, Thank you!:heart::heart::heart:
 
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicxhan&layout=compact&theme=tokyonight)
+
+
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Nicxhan&theme=dracula)
+
 
 
 
