@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Nicx] 😁
+# Hi there 👋, I am Nicx 😁✨✨✨✨✨
 
 ## Welcome to my GitHub page!
 <!--
