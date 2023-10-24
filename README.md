@@ -1,6 +1,6 @@
-# Hi there 👋, I am Nicx 😁✨✨✨✨✨
-
-## Welcome to my GitHub page!
+# 👋 👋 👋 Hi there 👋 👋 👋 👋 👋 
+# 😁       I am Nicx              😁
+## ✨ Welcome to my GitHub page! ✨
 <!--
 **Nicxhan/Nicxhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
